@@ -13,4 +13,5 @@ a_a+= 30000;
 cout <<"GEGFAGUOGEOUGUOAGOUEW  "<< a_a <<endl;
 	return 0;
 }
-// Conversão de tipos de dados, bem bosta pra falar as moral
+// ConversÃ£o de tipos de dados, bem bosta pra falar as moral
+// transformar de Short para Float, resultaria em futuros erros
